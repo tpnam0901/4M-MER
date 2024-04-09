@@ -1,0 +1,3 @@
+[submodule "src/models/audioset_tagging_cnn"]
+	path = src/models/audioset_tagging_cnn
+	url = git@github.com:qiuqiangkong/audioset_tagging_cnn.git

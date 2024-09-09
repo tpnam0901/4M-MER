@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Official code repository for paper "Comprehensive Study of Multi-Feature Embeddings and Multi-Loss Functions with Multi-Head Self-Attention Fusion for Multi-Modal Speech Emotion Recognition". Paper submitted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=5165369">IEEE Transactions on Affective Computing (2024)</a> </h4>
+<h4 align="center">Official code repository for paper "Comprehensive Study of Multi-Feature Embeddings and Multi-Loss Functions with Multi-Head Self-Attention Fusion for Multi-Modal Speech Emotion Recognition". Paper submitted to</h4>
 
 <p align="center">
 <a href=""><img src="https://img.shields.io/github/stars/namphuongtran9196/4m-ser?" alt="stars"></a>
